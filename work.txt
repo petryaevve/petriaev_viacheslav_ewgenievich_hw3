@@ -1,2 +1,3 @@
 Hello world
 My new rating
+Comment was added
